@@ -1,0 +1,16 @@
+C:\Users\amori\repos\SyntaxSugar\SyntaxSugar\bin\Debug\net5.0\SyntaxSugar.exe
+C:\Users\amori\repos\SyntaxSugar\SyntaxSugar\bin\Debug\net5.0\SyntaxSugar.deps.json
+C:\Users\amori\repos\SyntaxSugar\SyntaxSugar\bin\Debug\net5.0\SyntaxSugar.runtimeconfig.json
+C:\Users\amori\repos\SyntaxSugar\SyntaxSugar\bin\Debug\net5.0\SyntaxSugar.runtimeconfig.dev.json
+C:\Users\amori\repos\SyntaxSugar\SyntaxSugar\bin\Debug\net5.0\SyntaxSugar.dll
+C:\Users\amori\repos\SyntaxSugar\SyntaxSugar\bin\Debug\net5.0\ref\SyntaxSugar.dll
+C:\Users\amori\repos\SyntaxSugar\SyntaxSugar\bin\Debug\net5.0\SyntaxSugar.pdb
+C:\Users\amori\repos\SyntaxSugar\SyntaxSugar\obj\Debug\net5.0\SyntaxSugar.csproj.AssemblyReference.cache
+C:\Users\amori\repos\SyntaxSugar\SyntaxSugar\obj\Debug\net5.0\SyntaxSugar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amori\repos\SyntaxSugar\SyntaxSugar\obj\Debug\net5.0\SyntaxSugar.AssemblyInfoInputs.cache
+C:\Users\amori\repos\SyntaxSugar\SyntaxSugar\obj\Debug\net5.0\SyntaxSugar.AssemblyInfo.cs
+C:\Users\amori\repos\SyntaxSugar\SyntaxSugar\obj\Debug\net5.0\SyntaxSugar.csproj.CoreCompileInputs.cache
+C:\Users\amori\repos\SyntaxSugar\SyntaxSugar\obj\Debug\net5.0\SyntaxSugar.dll
+C:\Users\amori\repos\SyntaxSugar\SyntaxSugar\obj\Debug\net5.0\ref\SyntaxSugar.dll
+C:\Users\amori\repos\SyntaxSugar\SyntaxSugar\obj\Debug\net5.0\SyntaxSugar.pdb
+C:\Users\amori\repos\SyntaxSugar\SyntaxSugar\obj\Debug\net5.0\SyntaxSugar.genruntimeconfig.cache
